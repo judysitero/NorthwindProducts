@@ -2,7 +2,7 @@ package com.pluralsight;
 
 import java.sql.*;
 
-public class NorthwindDBConnection {
+public class NorthwindTradersDBConnection {
     public static void main(String[] args) {
         try {
 
